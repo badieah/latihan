@@ -2,3 +2,4 @@ To do list :
 - belajar repositori github
 - cari hosting yang mendukung docker (niaga hosting bisa)
 - belajar docker
+- bikin image untuk python

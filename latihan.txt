@@ -1,4 +1,5 @@
 Latihan Git dan Github :
 - Install Git di komputer
 - Buat akun di Github
-- Buar repo di Github
+- Buat repo di Github
+- Mencoba menghubungkan Git dan Github

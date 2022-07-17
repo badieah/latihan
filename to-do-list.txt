@@ -1,4 +1,5 @@
 To do list :
 - belajar repositori github
-- cari hosting yang mendukung docker (niaga hosting bisa)
+- cari hosting yang mendukung docker
 - belajar docker
+- Belajar Text Mining

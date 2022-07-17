@@ -3,3 +3,5 @@ To do list :
 - cari hosting yang mendukung docker
 - belajar docker
 - Belajar Text Mining
+- pakainya python 3.10
+
